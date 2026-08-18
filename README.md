@@ -55,7 +55,7 @@
 
 Подойдёт любой провайдер. Примеры:
 - [FirstVDS](https://firstvds.ru/?from=1235565)
-- [SprintBox](https://sprintbox.ru/s44536)
+- [SprintBox](https://sprintbox.ru/s44615)
 
 **Минимальные требования:** 1 CPU / 1 GB RAM / Ubuntu 22.04+.
 
@@ -63,7 +63,7 @@
 
 Аналогично, любой провайдер. Примеры:
 - [FirstVDS](https://firstvds.ru/?from=1235565)
-- [SprintBox](https://sprintbox.ru/s44536)
+- [SprintBox](https://sprintbox.ru/s44615)
 
 📍 **Локация:** берём **Германию** или **Амстердам (Нидерланды)** — у них лучший баланс задержки из РФ и стабильности каналов до популярных сервисов.
 
